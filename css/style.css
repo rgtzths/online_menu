@@ -1,10 +1,16 @@
 
 .container_cartas{
     height: 100vh;
+    color: whitesmoke;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
 }
 
 .container_menu{
     margin-top: 50px;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 
 .menu_background{
@@ -45,6 +51,8 @@
     border: 2px;
     border-style: solid;
     border-radius: 5px;
+    font-weight: bold;
+
 }
 
 .menu_item{
