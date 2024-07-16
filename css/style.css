@@ -33,7 +33,7 @@
 .opcao_carta{
     margin-bottom: 10px;
     border: 1px;
-    border-color: #301710;
+    border-color: whitesmoke;
     border-style: solid;
     border-radius: 5px;
 
@@ -41,7 +41,7 @@
 
 .opcao_carta:hover{ 
     cursor: pointer; 
-    border-color: #6e392a;
+    border-color: whitesmoke;
     border: 2px;
     border-style: solid;
     border-radius: 5px;
