@@ -1,0 +1,29 @@
+
+.container_cartas{
+    height: 100vh;
+}
+
+.container_menu{
+    margin-top: 50px;
+}
+
+.opcao_carta{
+    margin-bottom: 10px;
+    border: 1px;
+    border-color: #301710;
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+.opcao_carta:hover{ 
+    cursor: pointer; 
+    border-color: #6e392a;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.menu_item{
+    margin-top: 10px;
+}
