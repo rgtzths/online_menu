@@ -8,16 +8,17 @@
 }
 
 .container_menu{
-    margin-top: 50px;
+    margin-top: 5vh;
     font-family: Helvetica, 'Times New Roman', Times, serif;
     font-size: 20px;
+    height: 87vh;
 }
 
 .menu_background{
     background-attachment: fixed;
     background-size: cover;
     background-image: url('../images/background_2.jpeg'); 
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;   
 }
 
 .opcao_menu{
