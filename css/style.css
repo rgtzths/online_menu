@@ -1,6 +1,6 @@
 
 .container_cartas{
-    height: 100vh;
+    height: 92vh;
     color: whitesmoke;
     font-family: Helvetica, 'Times New Roman', Times, serif;
     font-size: 20px;
@@ -62,4 +62,19 @@
 .logo_image{
     margin-bottom: 20px;
     width: 100px;
+}
+
+.menu{
+    background-color: rgba(80, 79, 79, 0.4); 
+    padding-left: 10px; 
+    padding-right: 10px; 
+    padding-top: 2px; 
+    padding-bottom: 15px; 
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: 8vh;
+    background-color: rgba(80, 79, 79, 0.4); 
 }
