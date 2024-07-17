@@ -44,8 +44,8 @@ def add_corners(im, rad):
     return im
 
 url='https://rgtzths.github.io/online_menu/'
-logo="images/logo.jpg"
-rounded_logo = "images/rounded_logo.png"
+logo="images/logo_branco.jpg"
+rounded_logo = "images/logo_branco_rounded.png"
 qr_code='images/qr_code_black.png'
 color = False
 
