@@ -11,7 +11,8 @@
     margin-top: 5vh;
     font-family: Helvetica, 'Times New Roman', Times, serif;
     font-size: 20px;
-    height: 87vh;
+    margin-bottom: 10vh;
+
 }
 
 .menu_background{
@@ -75,7 +76,10 @@
 
 footer {
     clear: both;
-    position: relative;
-    height: 8vh;
-    background-color: rgba(80, 79, 79, 0.4); 
+    height: 5vh;
+    width: 100%;
+    background-color: rgba(80, 79, 79, 0.4);
+    bottom: 0; 
+    position: fixed;
+    padding: 10px;
 }
